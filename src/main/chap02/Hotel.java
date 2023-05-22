@@ -1,4 +1,4 @@
-package com.spring.core.chap01;
+package com.spring.core.chap02;
 
 /*
 *   스프링 의존성 주입이 사용되지 않아 생기는 문제
